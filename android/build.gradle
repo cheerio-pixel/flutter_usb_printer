@@ -27,7 +27,7 @@ apply plugin: 'kotlin-android'
 android {
     compileSdkVersion 31
 
-    namespace = "id.kechankrisna.flutter_usb_printer"
+    namespace = "mylekha.client.flutter_usb_printer"
 
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
