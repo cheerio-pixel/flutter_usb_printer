@@ -13,9 +13,6 @@ buildscript {
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
     }
 
-    kotlinOptions {
-        jvmTarget = '11'
-    }
 }
 
 rootProject.allprojects {
